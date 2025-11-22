@@ -4,7 +4,7 @@
 
 # 👋 Good morning!
 
-Greetings from Mosona!
+### Greetings from Mosona!
 
 This is a fun space. If you’d like to see our cute Mosona, please click:
 - [README](https://github.com/mosona-network/.github/blob/main/README.md)
